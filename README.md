@@ -1,2 +1,2 @@
 # chat-together
-chat together
+chat together readme file
